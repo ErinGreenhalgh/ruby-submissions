@@ -26,7 +26,7 @@ gist:
 
 ### Erin Greenhalgh
 
-gist:
+gist: https://gist.github.com/ErinGreenhalgh/5ab289d68ccd8dad12381c7b4da0f8b2
 
 ### Ilana Corson
 
