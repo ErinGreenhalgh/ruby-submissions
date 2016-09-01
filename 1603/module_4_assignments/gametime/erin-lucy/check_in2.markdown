@@ -55,11 +55,25 @@
 * Goal 2:
 
 * Goal 3:
+60/50
+
+### Points for Second Check In (base 50)
+
+* 60 points: Students documented their work well and completed all base goals or have documented where/why they deviated from the goal in a reasonable way. Students completed additional stretch goals.
+
+### Instructor's Goals for Next Check In
+
+* Goal 1: Smooth out the color filling animation - doesn't have to be your end goal - just traveling
+
+* Goal 2: Handle logic for boards that involve multiple segments
+
+* Goal 3: Move through 2 to 3 levels
 
 _Note: Instructor/Groups can add additional goals beyond 3. Grading for the next check in will be based on completion of goals_
 
 ### Stretch Goals
 
 * _ie. Goals that are not required to meet the checkin, but would be good to have. Completion may result in extra credit points_
+* Make the play through on levels friendly - visual indicators around what's happening - some design around a wrapper for the game.
 
 ### Feedback?
