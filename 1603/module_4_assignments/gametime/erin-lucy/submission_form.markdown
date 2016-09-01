@@ -46,7 +46,8 @@
 - This is a pretty long method that takes in many things and then makes variables from those things, which we're not a big fan of. It iterates through each block on the pattern and then checks if the block is either the user color, or one of the computer colors. Ideally this method would be flexible to iterate through any number of colors, thus getting rid of some repetition and making this more flexible. We just couldn't get this figured out in time. 
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
-`Block
+``` javascript 
+Block
     with default attributes
       ✓ should have an x value
       ✓ should have a y value
@@ -105,7 +106,7 @@
 
   32 passing (28ms)
 
-`
+```
 
 ### Test Breakdown
 - How Many Unit Tests? 24
