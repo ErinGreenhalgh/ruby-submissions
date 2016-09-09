@@ -1,4 +1,4 @@
-# Scale Up Submission Form (Check In) 
+# Scale Up Submission Form (Check In) Instructions
 
 - [Project Spec: Whiskey Tango](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/independent_study_project.markdown)
 
@@ -6,34 +6,29 @@
 
 ### Blog draft
 
-- [Blog draft/outline](https://gist.github.com/AnnaCW/ac756b8ef2b9cf957bcfb5a105fc0c2c)
+- [Draft](https://gist.github.com/Riizu/f89abdf004d3525903453e471492e9f3)
 
 ### Hours
 
 Document your general hours below (or planned hours)
 
-- Pre-Work (1 to 3 hours): 2
-- Tuesday (8 hours): 5
-- Wednesday (8 hours): 7
-- Thursday (8 hours): 4
-- Friday (8 hours): 3 completed, ~3 more planned
-- Weekend (0 hours): 4+ planned
+- Pre-Work (1 to 3 hours): 3
+- Tuesday (8 hours): 4
+- Wednesday (8 hours): 8
+- Thursday (8 hours): 8
+- Friday (8 hours): planned 8
+- Weekend (0 hours): planned 6 - 12
 
 ### Participation
 
-I participated in standup every day this week. I have not yet posted or responded to a PR, but plan to do so over the weekend and/or next week. 
+I was consistantly present at stand ups and gave Anna some advice/resources on React Native.
 
 ### Work Completed
 
-Research/prep: My research and prep including some background and documentation reading on React, and reading a few post posts. I also completed two React tutorials, the Creact tutorial from Lovisa S.,
-and [this tutorial](https://www.airpair.com/reactjs/posts/reactjs-a-guide-for-rails-developers#nesting-components-listing-records), which uses coffee but I converted to jsx/ES6, with occasional
-reference to a github repo mentioned in the tutorial's comments.
-[Link to my completed tutorial](https://github.com/AnnaCW/accounts-react-rails-jsx-ES6)
-
-Project work: I set up react-rails in my project, and have (almost) successfully converted one of my views to React using two React components.
-My main challenge stemmed from trying to handle two instance variables in one view. My process here is described in more detail in my draft blog.
-The last piece to have a working view is to get the spotify iframes (that play tracks) working. I think this is just a matter of fixing the string interpolation in the iframe url. 
-[Link to code](https://github.com/AnnaCW/m3_personal_project/commit/3c826cda840da3cb970a94dd7200fca24c287abe)
+* [Repo](https://github.com/Riizu/race_condition)
+* [Swift for Rubyists](https://realm.io/news/swift-for-rubyists/)
+* [An Introduction to Swift for Ruby Developers](http://www.aidanf.net/posts/an-introduction-to-swift-for-ruby-developers)
+* [Vapor Documentation](https://vapor.github.io/documentation)
 
 # Instructor feedback
 
@@ -43,7 +38,7 @@ The last piece to have a working view is to get the spotify iframes (that play t
 
 ### Blog Post Draft (25 Points)  
 
-  * **25: Developer has **draft/outlines** for 2 small blog posts documenting something they have worked on for their independent study or one in depth blog post. Outline is reasonably in depth and shows research/thoughtfullness.**
+  * **25: Developer has draft/outlines for 2 small blog posts documenting something they have worked on for their independent study or one in depth blog post. Outline is reasonably in depth and shows research/thoughtfullness.**
   * 15: Developer has **a draft/outline** for a blog post.
   * 0: Developer created no blog draft.
 
