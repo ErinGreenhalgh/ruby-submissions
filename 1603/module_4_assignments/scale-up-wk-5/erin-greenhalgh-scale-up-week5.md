@@ -20,7 +20,7 @@
 - Total: 24 / 24
 
 ### Talk about something from the pre-work that you didn't know about before this week.
-Learning about React was the most informative thing I learned from the prework. Previous to Scale Up, I had heard of React but did not know anything about it. Between the Creact tutorial, classes on React, and DSW talks, I learned a lot about the paradigm and benefits of React and I look forward to doing some more in-depth practice in Mod 5.
+React was a large thing I knew nothing about and definitely learned about from the prework. Previous to Scale Up, I had heard of React but did not know anything about it. Between the Creact tutorial, classes on React, and DSW talks, I learned a lot about the paradigm and benefits of React and I look forward to doing some more in-depth practice in Mod 5.
 
 ### Link to blog post(s) submitted
 [Learning About Machine Learning: An Introduction](https://medium.com/@e_green/learning-about-machine-learning-an-introduction-66365300aa4e#.jy4o4f197)
